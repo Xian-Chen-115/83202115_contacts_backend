@@ -1,6 +1,5 @@
 # 83202115_contacts_backend
 
-Here's a `README.md` for your Spring Boot backend project:
 
 ---
 
